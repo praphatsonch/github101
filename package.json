@@ -1,0 +1,21 @@
+{
+  "name": "github101",
+  "version": "1.0.0",
+  "description": "hello\r ตัวอย่างการใช้งาน github",
+  "homepage": "https://github.com/praphatsonch/github101#readme",
+  "bugs": {
+    "url": "https://github.com/praphatsonch/github101/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praphatsonch/github101.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
